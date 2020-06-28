@@ -41,6 +41,7 @@ main img{
 h2{
     font-size: 30px;
     color: red;
+    margin: 40px 0 10px;
 }
 
 a{
@@ -70,4 +71,10 @@ footer a{
 footer a:hover{
     opacity: .5;
     background-color: transparent;
+}
+
+p.caption{
+    color: lightgray;
+    font-style: italic;
+    margin-top: 0;
 }
